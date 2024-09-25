@@ -38,9 +38,12 @@ This repository is organized into several main topics, each containing relevant 
   - Economy
   - Poverty
   - Agriculture & Land
-- **Lifestyle & Culture**
-  - Lifestyle & Culture
   - Food & Nutrition
+- **Lifestyle & Culture**
+  - Cultural Norms
+  - Tradition
+  - Religion 
+  
 
 Each topic folder contains the datasets, README files with detailed descriptions, and any relevant scripts or tools for data analysis.
 
