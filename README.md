@@ -28,23 +28,22 @@ This repository is organized into several main topics, each containing relevant 
 - **Social Issues & Human Rights**
   - Human Rights
   - Gender Equity
+  - Tradition, religion and beliefs 
   - Sexual & Gender-based Violence
   - Female Genital Mutilation (FGM)
   - Child Marriage
   - Teenage Pregnancy
   - Refugees
+  - Disability 
 - **Environment & Economy**
   - Environment & Climate Change
   - Economy
   - Poverty
   - Agriculture & Land
   - Food & Nutrition
-- **Lifestyle & Culture**
-  - Cultural Norms
-  - Tradition
-  - Religion 
-  
+  - Development 
 
+  
 Each topic folder contains the datasets, README files with detailed descriptions, and any relevant scripts or tools for data analysis.
 
 ## How to Use the Datasets
