@@ -19,7 +19,7 @@ Welcome to the Environment & Economy section of the Africa Women Journalism Proj
 The data produced by third parties and made available by AWJP is subject to the license terms from the original third-party authors. We always indicate the original source of the data in each CSV file, and you should always check the license of any such third-party data before use.
 
 ## Contributing
-We welcome contributions to enhance the data and resources in this folder. Please follow our [contribution guidelines](CONTRIBUTING.md) to submit new data or improvements.
+We welcome contributions to enhance the data and resources in this folder. Please follow our [contribution guidelines](https://github.com/AWJP/AWJP-data/blob/main/CONTRIBUTING.md) to submit new data or improvements.
 
 ## Contact Information
 For any questions or support, please open an issue on this repository or contact [data@theawjp.org].
