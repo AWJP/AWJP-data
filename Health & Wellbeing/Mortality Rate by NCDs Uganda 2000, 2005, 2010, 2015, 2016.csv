@@ -1,0 +1,35 @@
+Source:,https://data.humdata.org/dataset/who-data-for-uganda,,
+,,,
+Choice of NCDs:,"According to a World Health Organization (WHO) preliminary analysis of 14 countries in the African region, hypertension, diabetes, cardiovascular disease and asthma are the co-morbidities most associated with COVID-19 patients.",,
+,,,
+YEAR,SEX,NCD,"Number of deaths attributed to non-communicable diseases, by type of disease and sex"
+2000,Female,Cardiovascular diseases,10476
+2000,Male,Cardiovascular diseases,10547
+2000,Both sexes,Cardiovascular diseases,21023
+2000,Female,Diabetes mellitus,1184
+2000,Male,Diabetes mellitus,1692
+2000,Both sexes,Diabetes mellitus,2876
+2005,Female,Cardiovascular diseases,11570
+2005,Male,Cardiovascular diseases,11015
+2005,Both sexes,Cardiovascular diseases,22584
+2005,Female,Diabetes mellitus,1312
+2005,Male,Diabetes mellitus,1876
+2005,Both sexes,Diabetes mellitus,3189
+2010,Female,Cardiovascular diseases,13525
+2010,Male,Cardiovascular diseases,11711
+2010,Both sexes,Cardiovascular diseases,25236
+2010,Female,Diabetes mellitus,1593
+2010,Male,Diabetes mellitus,2130
+2010,Both sexes,Diabetes mellitus,3722
+2015,Female,Cardiovascular diseases,15796
+2015,Male,Cardiovascular diseases,12783
+2015,Both sexes,Cardiovascular diseases,28578
+2015,Female,Diabetes mellitus,1904
+2015,Male,Diabetes mellitus,2462
+2015,Both sexes,Diabetes mellitus,4365
+2016,Female,Cardiovascular diseases,16441
+2016,Male,Cardiovascular diseases,13202
+2016,Both sexes,Cardiovascular diseases,29643
+2016,Female,Diabetes mellitus,1992
+2016,Male,Diabetes mellitus,2572
+2016,Both sexes,Diabetes mellitus,4564

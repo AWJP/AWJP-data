@@ -1,0 +1,20 @@
+Source:,https://ourworldindata.org/grapher/covid-stringency-index?country=~NGA,
+,,
+"The stringency index is a composite measure based on nine response indicators including school closures, workplace closures, and travel bans, rescaled to a value from 0 to 100 (100 = strictest).",,
+,,
+Month,Stringency Index,New Monthly Cases
+Feb-20,11.11,1
+Mar-20,28.88,134
+Apr-20,83.61,1797
+May-20,84.39,8230
+Jun-20,82.18,15532
+Jul-20,71.80,17457
+Aug-20,67.65,10857
+Sep-20,60.93,4840
+Oct-20,52.24,4005
+Nov-20,50.93,4704
+Dec-20,53.32,20050
+Jan-21,58.33,43635
+Feb-21,58.33,24415
+Mar-21,48.71,7234
+Apr-21,45.37,908

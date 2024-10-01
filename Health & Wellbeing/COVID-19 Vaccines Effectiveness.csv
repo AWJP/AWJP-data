@@ -1,0 +1,27 @@
+Source:,https://www.healthdata.org/covid/covid-19-vaccine-efficacy-summary,,,,
+,,,,,
+Effectiveness Against Severe disease,,,,,
+,,,,,
+,,,,,
+,Moderna,Pfizer/BioNTech,AstraZeneca,Johnson & Johnson,Sinopharm
+Ancestral,97%,95%,94%,86%,73%
+Alpha,97%,95%,94%,86%,73%
+Beta,97%,95%,94%,76%,71%
+Gamma,97%,95%,94%,76%,71%
+Delta,97%,95%,94%,76%,71%
+Omicron,73%,72%,71%,57%,53%
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+Effectiveness Against Infection,,,,,
+,,,,,
+,,,,,
+,Moderna,Pfizer/BioNTech,Johnson & Johnson,Sinopharm,AstraZeneca
+Ancestral,92%,86%,72%,68%,63%
+Alpha,92%,86%,72%,68%,63%
+Beta,81%,84%,64%,67%,69%
+Gamma,91%,84%,64%,67%,69%
+Delta,91%,84%,64%,67%,69%
+Omicron,48%,44%,33%,35%,36%

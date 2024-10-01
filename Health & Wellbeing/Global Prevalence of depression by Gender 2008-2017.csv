@@ -1,0 +1,33 @@
+Source:,http://ghdx.healthdata.org/gbd-results-tool,,
+,,,
+year,sex,cause,value
+2008,Male,Mental disorders,1676411.427
+2008,Female,Mental disorders,1806689.509
+2008,Both,Mental disorders,3483100.937
+2009,Male,Mental disorders,1718255.798
+2009,Female,Mental disorders,1848838.303
+2009,Both,Mental disorders,3567094.101
+2010,Male,Mental disorders,1763568.363
+2010,Female,Mental disorders,1894103.44
+2010,Both,Mental disorders,3657671.803
+2011,Male,Mental disorders,1811230.9
+2011,Female,Mental disorders,1941165.654
+2011,Both,Mental disorders,3752396.554
+2012,Male,Mental disorders,1861117.595
+2012,Female,Mental disorders,1991020.203
+2012,Both,Mental disorders,3852137.799
+2013,Male,Mental disorders,1911881.653
+2013,Female,Mental disorders,2041853.248
+2013,Both,Mental disorders,3953734.9
+2014,Male,Mental disorders,1966072.586
+2014,Female,Mental disorders,2094821.371
+2014,Both,Mental disorders,4060893.957
+2015,Male,Mental disorders,2021532.613
+2015,Female,Mental disorders,2150540.756
+2015,Both,Mental disorders,4172073.369
+2016,Male,Mental disorders,2079721.993
+2016,Female,Mental disorders,2207569.573
+2016,Both,Mental disorders,4287291.566
+2017,Male,Mental disorders,2139448.281
+2017,Female,Mental disorders,2266949.478
+2017,Both,Mental disorders,4406397.758

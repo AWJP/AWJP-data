@@ -1,0 +1,155 @@
+Source:,P1,,,,,,,,,,,,
+,B.1.351,,,,,,,,,,,,
+,B.1.1.70,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Countries,P1 (Gamma),,,Country,B.1.351 (Beta),,,Country,B.1.1.70 (Alpha),,,Country,B.1.617.2 (Delta)
+United States of America,16678,,,South Africa,4475,,,United Kingdom,251339,,,United Kingdom,75574
+Brazil,11253,,,Sweden,2206,,,United States of America,177099,,,India,7336
+Canada,4482,,,Germany,2148,,,Germany,99695,,,United States of America,4716
+Belgium,1432,,,United States of America,2009,,,Denmark,58643,,,Germany,1393
+Chile,1175,,,France,1763,,,Sweden,50344,,,Singapore,911
+Mexico,942,,,Finland,1092,,,Netherlands,26159,,,Portugal,691
+Spain,645,,,Belgium,963,,,France,25804,,,Spain,634
+Netherlands,500,,,Luxembourg,679,,,Switzerland,20419,,,Italy,573
+Italy,483,,,Netherlands,665,,,Italy,19449,,,Belgium,505
+Germany,280,,,United Kingdom,664,,,Belgium,17757,,,Russia,477
+Argentina,232,,,Philippines,645,,,Spain,16411,,,Denmark,450
+French Guiana,225,,,Turkey,539,,,Poland,14238,,,South Africa,347
+France,205,,,Norway,354,,,Ireland,12836,,,Indonesia,326
+United Kingdom,168,,,Reunion,350,,,Canada,11624,,,France,302
+Colombia,165,,,Qatar,290,,,Japan,11572,,,Canada,262
+Portugal,158,,,Zimbabwe,260,,,Lithuania,8808,,,Australia,248
+Switzerland,157,,,Austria,254,,,Norway,7412,,,Netherlands,248
+Uruguay,112,,,Malawi,250,,,Israel,7097,,,Mexico,218
+Suriname,106,,,Spain,248,,,Slovenia,6851,,,Switzerland,204
+Japan,96,,,Canada,232,,,Finland,5792,,,Ireland,198
+Aruba,96,,,Switzerland,209,,,Greece,5155,,,Japan,185
+Sweden,68,,,Mozambique,209,,,Portugal,4456,,,Sweden,168
+Paraguay,53,,,Israel,203,,,Slovakia,3800,,,Norway,127
+Haiti,46,,,Angola,169,,,Luxembourg,3670,,,Finland,126
+Denmark,45,,,India,161,,,Croatia,3503,,,Thailand,100
+Luxembourg,43,,,Botswana,154,,,Czech Republic,3370,,,Israel,96
+Costa Rica,32,,,Kenya,135,,,Bulgaria,2743,,,Bangladesh,92
+Ecuador,31,,,Malaysia,128,,,Estonia,2648,,,Poland,92
+Trinidad and Tobago,25,,,Denmark,104,,,Austria,2443,,,Czech Republic,78
+Ireland,25,,,Singapore,95,,,India,2408,,,Austria,76
+Peru,25,,,Portugal,84,,,Latvia,1197,,,Vietnam,54
+Turkey,23,,,Hong Kong,81,,,Mexico,1058,,,Luxembourg,48
+Malta,22,,,Japan,75,,,Thailand,654,,,Nepal,47
+Venezuela,17,,,Czech Republic,64,,,Romania,611,,,Uganda,38
+Austria,17,,,Ireland,63,,,Turkey,602,,,Kenya,34
+Czech Republic,13,,,Zambia,60,,,South Korea,586,,,Hong Kong,30
+Bolivia,10,,,Australia,54,,,Aruba,547,,,Bahrain,30
+Israel,9,,,Poland,44,,,Philippines,546,,,Romania,30
+Singapore,8,,,Italy,39,,,Brazil,446,,,Croatia,28
+New Zealand,7,,,Croatia,36,,,Australia,427,,,Cambodia,25
+Poland,6,,,Bangladesh,35,,,Cambodia,324,,,Malaysia,23
+Curaçao,6,,,Estonia,35,,,Kenya,317,,,New Zealand,21
+Australia,5,,,Mayotte,32,,,Curaçao,308,,,South Korea,20
+Romania,5,,,Thailand,32,,,Sint Maarten,307,,,Qatar,19
+Jordan,5,,,Equatorial Guinea,32,,,Russia,303,,,Brazil,16
+Norway,4,,,Slovenia,31,,,Ghana,282,,,Monaco,16
+Slovenia,4,,,Rwanda,30,,,North Macedonia,229,,,Botswana,12
+Taiwan,4,,,Slovakia,27,,,Singapore,187,,,Iran,11
+Dominican Republic,4,,,New Zealand,25,,,Qatar,174,,,Philippines,11
+Lithuania,3,,,Eswatini,23,,,Sri Lanka,173,,,Greece,10
+South Korea,3,,,Russia,20,,,Pakistan,165,,,China,10
+China,2,,,Greece,20,,,Bonaire,159,,,Lithuania,9
+Croatia,2,,,Mexico,19,,,Kazakhstan,158,,,Pakistan,9
+Finland,2,,,Djibouti,18,,,Chile,141,,,Malawi,6
+Bangladesh,1,,,South Korea,17,,,New Zealand,138,,,Sri Lanka,6
+Faroe Islands,1,,,Pakistan,14,,,Gibraltar,129,,,Myanmar,5
+Guam,1,,,Uganda,13,,,Nigeria,122,,,Slovakia,5
+Philippines,1,,,Costa Rica,12,,,Argentina,122,,,Slovenia,4
+Cayman Islands,1,,,Ghana,12,,,Canary Islands,110,,,Turkey,4
+Guyana,1,,,Lithuania,10,,,South Africa,108,,,Georgia,4
+,,,,Romania,7,,,Malta,107,,,Angola,3
+,,,,Latvia,7,,,Ecuador,96,,,Guadeloupe,3
+,,,,Indonesia,6,,,Costa Rica,95,,,Aruba,3
+,,,,United Arab Emirates,6,,,Bangladesh,87,,,Democratic Republic of the Congo,3
+,,,,Cameroon,6,,,Morocco,86,,,Malta,3
+,,,,Lesotho,6,,,Jordan,77,,,Barbados,2
+,,,,Brazil,5,,,Colombia,73,,,Peru,2
+,,,,Suriname,5,,,Iraq,63,,,Reunion,2
+,,,,Guadeloupe,4,,,Guadeloupe,62,,,Mauritius,2
+,,,,Mauritius,4,,,Reunion,59,,,Ghana,2
+,,,,Democratic Republic of the Congo,4,,,Hong Kong,59,,,Kuwait,2
+,,,,Sri Lanka,4,,,Ukraine,50,,,Senegal,1
+,,,,Aruba,4,,,Indonesia,49,,,Bulgaria,1
+,,,,Gabon,4,,,Angola,46,,,Chile,1
+,,,,Chile,3,,,Iran,45,,,Jordan,1
+,,,,Malta,3,,,French Guiana,41,,,Morocco,1
+,,,,Guam,3,,,Guam,39,,,Sint Maarten,1
+,,,,Martinique,2,,,Gabon,35,,,Taiwan,1
+,,,,China,2,,,Bosnia and Herzegovina,33,,,Argentina,1
+,,,,Iran,2,,,Taiwan,32,,,Guam,1
+,,,,Jordan,2,,,Gambia,30,,,,
+,,,,Saudi Arabia,1,,,Djibouti,28,,,,
+,,,,Brunei,1,,,Hungary,28,,,,
+,,,,North Macedonia,1,,,Palestine,27,,,,
+,,,,Guinea Bissau,1,,,Guinea Bissau,26,,,,
+,,,,Cambodia,1,,,Albania,26,,,,
+,,,,Panama,1,,,Georgia,23,,,,
+,,,,Tunisia,1,,,Republic of Serbia,23,,,,
+,,,,Argentina,1,,,Kuwait,22,,,,
+,,,,Iraq,1,,,Martinique,22,,,,
+,,,,Bahrain,1,,,United Arab Emirates,21,,,,
+,,,,Cote d'Ivoire,1,,,Togo,21,,,,
+,,,,Sint Maarten,1,,,Iceland,20,,,,
+,,,,French Guiana,1,,,China,18,,,,
+,,,,Togo,1,,,Uganda,17,,,,
+,,,,,,,,Bahrain,15,,,,
+,,,,,,,,Saint Lucia,15,,,,
+,,,,,,,,Suriname,15,,,,
+,,,,,,,,Cote d'Ivoire,13,,,,
+,,,,,,,,Egypt,13,,,,
+,,,,,,,,Senegal,12,,,,
+,,,,,,,,Armenia,11,,,,
+,,,,,,,,Cyprus,10,,,,
+,,,,,,,,Cameroon,10,,,,
+,,,,,,,,Wallis and Futuna,10,,,,
+,,,,,,,,Malaysia,9,,,,
+,,,,,,,,Vietnam,9,,,,
+,,,,,,,,Barbados,8,,,,
+,,,,,,,,Peru,8,,,,
+,,,,,,,,Montenegro,7,,,,
+,,,,,,,,Lebanon,5,,,,
+,,,,,,,,Trinidad and Tobago,5,,,,
+,,,,,,,,Dominican Republic,4,,,,
+,,,,,,,,Paraguay,4,,,,
+,,,,,,,,Rwanda,3,,,,
+,,,,,,,,Tunisia,3,,,,
+,,,,,,,,Moldova,3,,,,
+,,,,,,,,Belarus,3,,,,
+,,,,,,,,Ethiopia,3,,,,
+,,,,,,,,Cayman Islands,3,,,,
+,,,,,,,,Republic of the Congo,3,,,,
+,,,,,,,,Democratic Republic of the Congo,3,,,,
+,,,,,,,,Turks and Caicos Islands,3,,,,
+,,,,,,,,Antigua and Barbuda,3,,,,
+,,,,,,,,MAlta,3,,,,
+,,,,,,,,Azerbaijan,3,,,,
+,,,,,,,,Monaco,3,,,,
+,,,,,,,,Kosovo,3,,,,
+,,,,,,,,Montserrat,2,,,,
+,,,,,,,,Mayotte,2,,,,
+,,,,,,,,Somalia,2,,,,
+,,,,,,,,Jamaica,2,,,,
+,,,,,,,,Malawi,2,,,,
+,,,,,,,,Anguilla,2,,,,
+,,,,,,,,Myanmar,2,,,,
+,,,,,,,,Saudi Arabia,1,,,,
+,,,,,,,,Northern Mariana Islands,1,,,,
+,,,,,,,,Honduras,1,,,,
+,,,,,,,,Haiti,1,,,,
+,,,,,,,,Czech republic,1,,,,
+,,,,,,,,Bermuda,1,,,,
+,,,,,,,,Faroe Islands,1,,,,
+,,,,,,,,Burkina Faso,1,,,,
+,,,,,,,,Liechtenstein,1,,,,
+,,,,,,,,Nepal,1,,,,
+,,,,,,,,Zambia,1,,,,
+,,,,,,,,Dominica,1,,,,
+,,,,,,,,Mozambique,1,,,,
+,,,,,,,,Guatemala,1,,,,
+,,,,,,,,Oman,1,,,,

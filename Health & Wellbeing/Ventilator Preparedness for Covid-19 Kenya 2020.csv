@@ -1,0 +1,54 @@
+Source:,AWJP Data | IHME | KNBS,,
+,https://covid19.healthdata.org/kenya?view=resource-use&tab=trend&resource=all_resources,,
+,,,
+COUNTY,VENTILATORS,Required Ventilators (Based on Peak ),Percentage preparedness
+Mombasa,14,298.0758389,4.70%
+Machakos,31,350.7671923,8.84%
+Kiambu,35,596.4153825,5.87%
+Uasin Gishu,0,286.938818,0.00%
+Makueni,3,243.6377195,1.23%
+Kilifi,7,358.6252958,1.95%
+Muranga,13,260.6556756,4.99%
+Vihiga,0,145.5464842,0.00%
+Homabay,18,279.2334115,6.45%
+Nyeri,1,187.2732485,0.53%
+Kericho,6,222.4535255,2.70%
+kakamega,10,460.7009633,2.17%
+Mandera,16,213.987347,7.48%
+Kajiado,23,275.752707,8.34%
+Busia,6,220.4563757,2.72%
+Turkana,7,228.6697035,3.06%
+Garissa,10,207.5479204,4.82%
+Embu,10,150.1313442,6.66%
+Nakuru,45,533.3796023,8.44%
+Kisii,23,312.5134853,7.36%
+Meru,9,381.3021719,2.36%
+Bomet,3,216.0180458,1.39%
+Baringo,4,164.4794445,2.43%
+Isiolo,7,66.11167698,10.59%
+Wajir,9,192.7247076,4.67%
+Elgeyo,5,112.1127266,4.46%
+Laikipia,6,127.9202066,4.69%
+Narok,14,285.6281884,4.90%
+Kitui,6,280.2786096,2.14%
+Taita,5,84.03792176,5.95%
+Marsabit,0,113.4213827,0.00%
+Nandi,0,218.490308,0.00%
+Samburu,5,76.552557,6.53%
+Tana River,0,77.93793165,0.00%
+Trans Nzoia,25,244.3008048,10.23%
+Kisumu,13,285.061063,4.56%
+Kwale,13,213.8302096,6.08%
+Lamu,0,35.50269233,0.00%
+Nyamira,5,149.3856199,3.35%
+Migori,5,275.4063634,1.82%
+Nyandarua,9,157.4553779,5.72%
+Bungoma,12,412.1020896,2.91%
+West Pokot,3,153.2499172,1.96%
+Kirinyaga,8,150.5783347,5.31%
+Siaya,6,245.0018794,2.45%
+Tharaka Nithi,2,96.99028671,2.06%
+,,,
+,,,
+"Due to the limited data at the county level, the model used in this article assumed that the population coverage ratio at the national level is the same as the counties’.",,,
+nb:only use the percentages in bold,,,

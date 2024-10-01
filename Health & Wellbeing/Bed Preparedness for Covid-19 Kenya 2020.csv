@@ -1,0 +1,57 @@
+Source:,AWJP Data | IHME | KNBS,,
+,https://covid19.healthdata.org/kenya?view=resource-use&tab=trend&resource=all_resources,,
+,,,
+COUNTY,Bed Capacity (All Beds),Required Beds (Based on Peak Bed Demand),Percentage preparedness
+Marsabit,56,435.2162073,13%
+Wajir,105,739.5159037,14%
+Siaya,134,940.111875,14%
+Tana River,43,299.0604613,14%
+Baringo,106,631.1342563,17%
+Turkana,157,877.4426721,18%
+Lamu,30,136.2295781,22%
+kakamega,412,1767.78418,23%
+Nakuru,478,2046.663884,23%
+Kilifi,325,1376.103319,24%
+Bungoma,411,1581.302434,26%
+Busia,224,845.9268036,26%
+Kisii,325,1199.164837,27%
+Kitui,306,1075.4744,28%
+Meru,418,1463.118163,29%
+Homabay,318,1071.463806,30%
+Uasin Gishu,327,1101.030698,30%
+Narok,346,1096.0016,32%
+Makueni,315,934.8773727,34%
+Kiambu,828,2288.542377,36%
+Kericho,312,853.5901906,37%
+Bomet,305,828.8962132,37%
+Trans Nzoia,357,937.4217384,38%
+Kisumu,417,1093.825448,38%
+Mombasa,454,1143.76525,40%
+Mandera,327,821.1040934,40%
+Migori,421,1056.778802,40%
+Kwale,350,820.5011317,43%
+Muranga,433,1000.178025,43%
+Nandi,366,838.3826837,44%
+machakos,609,1345.950503,45%
+Nyeri,346,718.5977725,48%
+Kajiado,523,1058.107779,49%
+Kirinyaga,301,577.7934477,52%
+Garissa,425,796.3949709,53%
+Vihiga,300,558.4854228,54%
+Nyamira,339,573.2168078,59%
+Nyandarua,364,604.1817757,60%
+Embu,358,576.0782726,62%
+Elgeyo,286,430.1946821,66%
+West Pokot,391,588.0447423,66%
+Laikipia,430,490.850542,88%
+Isiolo,230,253.6812075,91%
+Tharaka Nithi,359,372.1674321,96%
+Taita,317,322.4671109,98%
+Samburu,324,293.7445545,110%
+,,,
+,,,
+,,,
+"Due to the limited data at the county level, the model used in this article assumed that the population coverage ratio at the national level is the same as the counties’.",,,
+,,,
+,,,
+nb:only use the percentages in bold,,,
