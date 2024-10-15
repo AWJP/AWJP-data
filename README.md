@@ -11,6 +11,11 @@ The Africa Women Journalism Project (AWJP) is committed to promoting the role of
 ## Repository Structure
 
 This repository is organized into several main topics, each containing relevant datasets. Below is an overview of the structure:
+- **AWJP Research**
+  - Challenges of women journalists in Africa in the newsroom
+  - Gender-specific reporting obstacles
+  - Skill development needs
+  - Systemic barriers 
 - **Health & Well-being**
   - Covid-19
   - Mental Health
