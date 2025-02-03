@@ -1,0 +1,35 @@
+Source: ,"UNAIDS, 2023",,
+,,,
+HIV and AIDS Estimates,,,
+,,,
+This dataset contains information on HIV prevalence in Senegal in 2023.,,,
+,,,
+,Estimate,Minimum,Maximum
+Adults and children living with HIV,44 000,39 000,52 000
+Adults aged 15 and over living with HIV,42 000,37 000,49 000
+Women aged 15 and over living with HIV,24 000,21 000,28 000
+Men aged 15 and over living with HIV,17 000,16 000,21 000
+Children aged 0 to 14 living with HIV,2200,1900,2800
+Adult aged 15 to 49 HIV prevalence rate,0.3,0.3,0.4
+Women aged 15 to 49 HIV prevalence rate,0.4,0.3,0.4
+Men aged 15 to 49 HIV prevalence rate,0.3,0.2,0.3
+HIV prevalence among young women,0.1,<0.1,0.1
+HIV prevalence among young men,<0.1,<0.1,<0.1
+Adults and children newly infected with HIV,2800,2300,3800
+Adults aged 15 and over newly infected with HIV,2500,2100,3400
+Women aged 15 and over newly infected with HIV,1200,<1000,1600
+Men aged 15 and over newly infected with HIV,1400,1100,1900
+Children aged 0 to 14 newly infected with HIV,<500,<200,<500
+HIV incidence per 1000 population (adults 15-49),0.28,0.23,0.37
+HIV incidence per 1000 population (all ages),0.16,0.13,0.21
+Adult and child deaths due to AIDS,<1000,<1000,1100
+Deaths due to AIDS among adults aged 15 and over,<1000,<1000,<1000
+Deaths due to AIDS among women aged 15 and over,<500,<200,<500
+Deaths due to AIDS among men aged 15 and over,<500,<500,<1000
+Deaths due to AIDS among children aged 0 to 14,<200,<100,<200
+Orphans due to AIDS aged 0 to 17,34 000,26 000,43 000
+Epidemic transition metrics,,,
+Percent change in new HIV infections since 2010,24,,
+Percent change in AIDS-related deaths since 2010,-50,,
+Incidence : prevalence ratio,6.3,,
+Incidence : mortality ratio,2.46,,
