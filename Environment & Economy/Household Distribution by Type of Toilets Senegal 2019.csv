@@ -1,0 +1,16 @@
+Source: ,Agence nationale de la statistique et de la démographie (ANSD),,
+,,,
+This dataset contains information on access to toilets by households in Senegal 2019.,,,
+,,,
+Type of Toilets,Urban (%),Rural (%),Total (%)
+Flush toilet/manual flush connected to a sewer system,17.6,0.1,9
+Flush toilet/manual flush connected to a septic tank,60,27.1,43.7
+Flush toilet connected to a latrine,4.9,6.4,5.6
+Flush toilet connected somewhere,0.2,1.3,0.7
+Improved ventilated pit latrine,8,9.6,8.8
+Pit latrine with slab,5,12.5,8.7
+Pit latrine without slab,2.5,15.5,8.9
+No toilet / open defecation,1.4,23.8,12.5
+Composting toilet,0,0.2,0.1
+Hanging latrines/toilets,0.2,2.7,1.4
+Other,0.4,1,0.7
