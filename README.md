@@ -25,8 +25,11 @@ This repository is organized into several main topics, each containing relevant 
   - Employment & Wages
 - **Governance & Policy**
   - Governance & Policy
+  - Elections
   - Government Expenditure
   - Law & Justice
+  - Police
+  - Insecurity
 - **Social Issues & Human Rights**
   - Human Rights
   - Gender Equity
