@@ -1,0 +1,35 @@
+Source:,"Enquête Démographique et de Santé Continue (EDS-Continue), 2023",,,,
+,,,,,
+"This dataset contains information on the percentage of women aged 15-19 who have already had a live birth, percentage who have already had an unproductive pregnancy, percentage who are currently pregnant and percentage who have already been pregnant, by residence, region, education, wealth in Senegal in 2022",,,,,
+,,,,,
+Sociodemographic Characteristic,Had a Live Birth (%),Had an Unsuccessful Pregnancy (%),Currently Pregnant (%),Ever Pregnant (%),Number of Women
+Age 15,2,0.1,0.5,2.5,747
+Age 16,3.9,0.1,1.5,5.4,786
+Age 17,8.2,0.8,3.2,10.6,788
+Age 18,14.9,1.3,4.4,18.3,871
+Age 19,22.4,4.2,5.6,27.6,684
+Urban,6,1,1.4,7.4,"1,913"
+Rural,14.1,1.4,4.7,17.9,"1,964"
+Dakar,4.7,0.7,0.6,5,894
+Ziguinchor,5.7,0,1.2,6.8,140
+Diourbel,9.1,0.4,2.9,10.8,423
+Saint-Louis,13.7,3.1,1.8,16.5,274
+Tambacounda,23.8,1.3,5.8,28.6,182
+Kaolack,13.7,1.3,6.4,18.2,265
+Thiès,4.2,1.5,2.2,6.4,629
+Louga,10.7,1.8,4.2,15.6,188
+Fatick,10.2,1.5,1.9,12.7,264
+Kolda,24,1.4,5.8,29.1,141
+Matam,13.9,1.7,6.9,19.3,170
+Kaffrine,21.9,2.3,6.8,26.9,148
+Kédougou,17.9,1,6.6,24.6,37
+Sédhiou,13.7,0.6,5.4,17.2,122
+No Education,22.7,2.2,6,26.9,925
+Primary,10.2,1.5,4.1,14.1,823
+Secondary or Higher,4.6,0.7,1.3,6,"2,129"
+Lowest Wealth Quintile,24.7,2.4,5.7,29.6,594
+Second,13.8,1.7,4.5,17.5,718
+Middle,8.8,1.5,3.1,11.6,826
+Fourth,5.2,0.4,2.6,7,823
+Highest,3.4,0.6,0.6,4.1,917
+Total,10.1,1.2,3,12.7,"3,877"
