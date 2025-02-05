@@ -31,6 +31,7 @@ This repository is organized into several main topics, each containing relevant 
   - Police
   - Insecurity
 - **Social Issues & Human Rights**
+  - Demographics
   - Human Rights
   - Gender Equity
   - Tradition, religion and beliefs 
