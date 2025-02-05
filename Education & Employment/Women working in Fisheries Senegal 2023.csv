@@ -1,0 +1,14 @@
+Source: ,"Ocean Risk, 2023",,
+,,,
+This dataset contains information on the employment contribution of women in various fisheries sectors in Senegal in 2023.,,,
+,,,
+Fisheries Type,Activity,Number of Women,Percentage of total workers
+Subsistence Fisheries,Harvesting & Processing (Inland),"9,825",
+,Harvesting & Processing (Marine),"32,688",
+Small-scale Fisheries,Harvesting (Inland),"2,445",
+,Harvesting (Marine),"10,414",
+,Processing,"24,751",
+,Trading,"55,307",
+Large-scale Fisheries,Harvesting (Marine),Not estimated,
+,Processing,"2,280",57%
+,Trading,"1,840",51%
