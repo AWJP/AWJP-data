@@ -1,0 +1,9 @@
+Source: ,"DHS Comparative Reports 50, 2021",,
+,,,
+This dataset contains information on the Primary Infertility Trends in Senegal from 1997-2018.,,,
+,,,
+Year,Primary Infertility Rate (%),Confidence Interval,Sample Size
+1997,2.1,"[1.2, 3.9]",697
+2005,2,"[1.2, 3.1]","1,117"
+2012-13,0.8,"[0.4, 2.0]",614
+2018,2.4,"[1.2, 4.6]",768
