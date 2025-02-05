@@ -1,0 +1,9 @@
+Source: ,,
+,,
+This dataset contains information on the number of health facilities by ownership type in Kenya as of 2024.,,
+,,
+Ownership Type,Number of Health Facilities,Percentage
+Government,5779,47%
+Private Sector,5654,46%
+Faith-Based Organizations,788,6%
+NGOs,154,1%
