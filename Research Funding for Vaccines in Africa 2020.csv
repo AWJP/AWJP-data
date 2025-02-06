@@ -1,0 +1,8 @@
+Source: ,"Policy Cures Research, 2020",,,
+,,,,
+"This dataset contains information on the Research Funding for Vaccines in Africa by Africa in Ethiopia, Nigeria and South Africa 2020.",,,,
+,,,,
+Country,Funding Institution,Recipient Institution,Purpose,Amount Funded ($)
+Ethiopia,Ethiopian Government,CEPI,Vaccine,300000
+Nigeria,Multiple Funding Institutions,Nigerian COVID-19 Research Group,Vaccine,20129
+South Africa,South African Government,Multiple Unspecified Recipients,Basic Research & Unspecified,542878

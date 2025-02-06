@@ -1,0 +1,8 @@
+Source: ,"WHO, 2020",
+,,
+This dataset contains information on the Global Blood Donation Rates pre-pandemic 2019.,,
+,,
+Country Income Level,Donations per 1000 People,WHO Recommended Rate (per 1000)
+High-Income,33.1,10
+Middle-Income,11.7,10
+Low-Income,4.6,10
