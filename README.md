@@ -44,6 +44,8 @@ This repository is organized into several main topics, each containing relevant 
 - **Environment & Economy**
   - Environment & Climate Change
   - Economy
+  - Blue Economy
+  - Water, Sanitation and Hygiene (WASH)
   - Poverty
   - Agriculture & Land
   - Food & Nutrition
