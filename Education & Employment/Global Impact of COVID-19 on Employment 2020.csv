@@ -1,0 +1,11 @@
+Source: ,"International Labour Organization (ILO), 2020"
+,
+This dataset contains information on the Global Impact of COVID-19 on partial and full employment by Lockdown Type in 2020.,
+,
+Lockdown Type,Impact (%)
+Full Lockdown - Informal Employment,90%
+Full Lockdown - Formal Employment,50%
+Partial Lockdown - Informal Employment,90%
+Partial Lockdown - Formal Employment,25%
+Weak Lockdown - Informal Employment,33%
+Weak Lockdown - Formal Employment,10%
