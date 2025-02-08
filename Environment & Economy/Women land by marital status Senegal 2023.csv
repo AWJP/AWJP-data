@@ -1,0 +1,12 @@
+"Source: Demographic and Health Survey, 2023",,,,,
+,,,,,
+This dataset contains information on women's possession of land by marital status in Senegal in 2023.,,,,,
+,,,,,
+Type of Possession,Single,Married/Living Together,Divorced/Separated,Widowed,Total
+Land,,,,,
+Sole,0.30%,2.60%,1.80%,7.20%,1.90%
+Joint (with spouse),N/A,3.10%,0.10%,0.90%,2.00%
+Joint (with others),1.70%,1.10%,1.10%,4.30%,1.30%
+Joint (spouse + others),N/A,2.70%,0.00%,0.80%,1.70%
+Sole + Joint,0.00%,0.40%,0.40%,0.60%,0.30%
+No ownership,97.90%,90.10%,96.70%,86.20%,92.70%

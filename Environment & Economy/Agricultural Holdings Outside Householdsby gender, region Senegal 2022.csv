@@ -1,0 +1,20 @@
+Source: ,"Direction de l'Analyse, de la Prévision et des Statistiques Agricoles, 2022",
+,,
+This dataset contains information on the proportion of Agricultural Holdings Outside Households (agricultural enterprises or farms that are not part of individual household-based farming activities) by gender and region in Senegal 2022.,,
+,,
+Region,Male (%),Female (%)
+Dakar,92%,8%
+Ziguinchor,71%,29%
+Diourbel,93%,7%
+Saint-Louis,89%,11%
+Tambacounda,96%,4%
+Kaolack,87%,13%
+Thiès,90%,10%
+Louga,82%,18%
+Fatick,95%,5%
+Kolda,98%,2%
+Matam,92%,8%
+Kaffrine,97%,3%
+Kédougou,43%,57%
+Sédhiou,97%,3%
+Senegal (National),91%,9%
