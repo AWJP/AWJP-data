@@ -35,7 +35,8 @@ This repository is organized into several main topics, each containing relevant 
   - Human Rights
   - Gender Equity
   - Tradition, religion and beliefs 
-  - Sexual & Gender-based Violence
+  - Sexual & Gender-based Violence (SGBV)
+  - LGBTQ+
   - Female Genital Mutilation (FGM)
   - Child Marriage
   - Teenage Pregnancy
