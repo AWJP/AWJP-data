@@ -7,7 +7,7 @@ This folder contains raw datasets from surveys conducted internally by the Afric
 
 ## Surveys
 
-The first report in this series, **"Gender, Journalism, and Power: Role of Women in Francophone African Newsrooms,"** explores the barriers women face when reporting on gender issues, the skill gaps they experience, and the systemic issues that hinder their advancement in the media industry. The data covers:
+The first report in this series, **"[Gender, Journalism, and Power: Role of Women in Francophone African Newsrooms](https://theawjp.org/gender-journalism-and-power-role-of-women-in-francophone-african-newsrooms/),"** explores the barriers women in Senegal, Togo and Burkina Faso face when reporting on gender issues, the skill gaps they experience, and the systemic issues that hinder their advancement in the media industry. The data covers:
 - **Challenges in the newsroom:** Identifying the structural, cultural, and social barriers women encounter in their professional environments.
 - **Gender-specific reporting obstacles:** Exploring the difficulties women face when reporting on gender-related issues, including backlash or censorship.
 - **Skill development needs:** Insights into the professional skills women journalists feel they need to better perform their roles and advance their careers.
