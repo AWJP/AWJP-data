@@ -33,7 +33,8 @@ This repository is organized into several main topics, each containing relevant 
 - **Social Issues & Human Rights**
   - Demographics
   - Human Rights
-  - Gender Equity
+  - Lifestyle, Culture & Tradition
+  - Gender Inequality
   - Tradition, religion and beliefs 
   - Sexual & Gender-based Violence (SGBV)
   - LGBTQ+
