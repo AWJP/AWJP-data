@@ -12,7 +12,7 @@ The Africa Women Journalism Project (AWJP) is committed to promoting the role of
 
 This repository is organized into several main topics, each containing relevant datasets. Below is an overview of the structure:
 - **AWJP Research**
-  - Challenges of women journalists in francophone Africa in the newsroom and in their gender reporting role
+  - [Gender, Journalism, and Power: Role of Women in Francophone African Newsrooms Research Report](https://theawjp.org/gender-journalism-and-power-role-of-women-in-francophone-african-newsrooms/)
 - **Health & Well-being**
   - Covid-19
   - Mental Health
