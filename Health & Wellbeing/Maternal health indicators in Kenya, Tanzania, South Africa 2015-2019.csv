@@ -1,0 +1,161 @@
+Source:,"Guttmacher Institute, 2019",,
+,https://data.guttmacher.org/countries/table?country=KE+TZ+ZA&topics=300+301+302+303+304+305+306+307+308+309+310+311+312+313+400&dataset=data,,
+"Maternal health indicators in Kenya, Tanzania, South Africa 2015-2019",,,
+"This dataset contains information on abortion rates, contraception use, pregnancy, births and maternal and newborn health in Kenya Tanzania and South Africa from 2015-2019",,,
+,,,
+Country,Kenya,Tanzania,South Africa
+"% of rural women aged 15–49 not wanting to avoid pregnancy, 2019 [1]",43,50,39
+"% of rural women aged 15–49 who want to avoid pregnancy, 2019 [2]",57,50,61
+"% of urban women aged 15–49 not wanting to avoid pregnancy, 2019 [1]",41,47,39
+"% of urban women aged 15–49 who want to avoid pregnancy, 2019 [2]",59,53,61
+"% of women aged 15–19 giving birth who do not deliver in a health facility, 2019",33,29,2
+"% of women aged 15–19 giving birth who have <4 antenatal , 2019 [7]",51,52,24
+"% of women aged 15–19 not wanting to avoid pregnancy, 2019 [1]",78,78,67
+"% of women aged 15–19 who want to avoid pregnancy, 2019 [2]",22,22,33
+"% of women aged 15–49 giving birth who do not deliver in a health facility, 2019",34,35,4
+"% of women aged 15–49 giving birth who have <4 antenatal visits, 2019 [7]",44,51,22
+"% of women aged 15–49 not wanting to avoid pregnancy, 2019 [1]",42,49,39
+"% of women aged 15–49 who want to avoid pregnancy, 2019 [2]",58,51,61
+"Among rural women aged 15–49 who want to avoid pregnancy, % not using any method of contraception, 2019 [2]",24,35,19
+"Among rural women aged 15–49 who want to avoid pregnancy, % using LARC methods, 2019 [6, 2]",28,15,7
+"Among rural women aged 15–49 who want to avoid pregnancy, % using a modern method, 2019 [4, 2]",74,58,80
+"Among rural women aged 15–49 who want to avoid pregnancy, % using a traditional method of contraception, 2019 [5, 2]",1,6,0
+"Among rural women aged 15–49 who want to avoid pregnancy, % using condoms, 2019 [2]",3,5,20
+"Among rural women aged 15–49 who want to avoid pregnancy, % using contraceptive pills, patches or rings, 2019 [2]",4,9,7
+"Among rural women aged 15–49 who want to avoid pregnancy, % using injectables, 2019 [2]",34,23,43
+"Among rural women aged 15–49 who want to avoid pregnancy, % using male or female sterilization, 2019 [2]",4,6,4
+"Among rural women aged 15–49 who want to avoid pregnancy, % using other modern methods of contraception, 2019 [2]",2,1,0
+"Among rural women aged 15–49 who want to avoid pregnancy, % with a met need for modern contraception, 2019 [4, 3, 2]",74,58,80
+"Among rural women aged 15–49 who want to avoid pregnancy, % with an unmet need for modern contraception, 2019 [4, 3, 2]",26,42,20
+"Among urban women aged 15–49 who want to avoid pregnancy, % not using any method of contraception, 2019 [2]",17,25,18
+"Among urban women aged 15–49 who want to avoid pregnancy, % using LARC methods, 2019 [6, 2]",28,11,7
+"Among urban women aged 15–49 who want to avoid pregnancy, % using a modern method, 2019 [4, 2]",81,60,81
+"Among urban women aged 15–49 who want to avoid pregnancy, % using a traditional method of contraception, 2019 [5, 2]",2,15,0
+"Among urban women aged 15–49 who want to avoid pregnancy, % using condoms, 2019 [2]",6,14,20
+"Among urban women aged 15–49 who want to avoid pregnancy, % using contraceptive pills, patches or rings, 2019 [2]",9,10,9
+"Among urban women aged 15–49 who want to avoid pregnancy, % using injectables, 2019 [2]",31,19,36
+"Among urban women aged 15–49 who want to avoid pregnancy, % using male or female sterilization, 2019 [2]",3,5,9
+"Among urban women aged 15–49 who want to avoid pregnancy, % using other modern methods of contraception, 2019 [2]",4,1,1
+"Among urban women aged 15–49 who want to avoid pregnancy, % with a met need for modern contraception, 2019 [4, 3, 2]",81,60,81
+"Among urban women aged 15–49 who want to avoid pregnancy, % with an unmet need for modern contraception, 2019 [4, 3, 2]",19,40,19
+"Among women aged 15–19 who need care following a major obstetric complication, % not receiving care, 2019",59,57,3
+"Among women aged 15–19 who want to avoid pregnancy, % not using any method of contraception, 2019 [2]",45,50,23
+"Among women aged 15–19 who want to avoid pregnancy, % using LARC methods, 2019 [6, 2]",13,8,7
+"Among women aged 15–19 who want to avoid pregnancy, % using a modern method, 2019 [4, 2]",53,43,77
+"Among women aged 15–19 who want to avoid pregnancy, % using a traditional method of contraception, 2019 [5, 2]",2,7,0
+"Among women aged 15–19 who want to avoid pregnancy, % using condoms, 2019 [2]",7,17,23
+"Among women aged 15–19 who want to avoid pregnancy, % using contraceptive pills, patches or rings, 2019 [2]",4,4,3
+"Among women aged 15–19 who want to avoid pregnancy, % using injectables, 2019 [2]",22,13,45
+"Among women aged 15–19 who want to avoid pregnancy, % using male or female sterilization, 2019 [2]",0,0,0
+"Among women aged 15–19 who want to avoid pregnancy, % using other modern methods of contraception, 2019 [2]",7,0,0
+"Among women aged 15–19 who want to avoid pregnancy, % with a met need for modern contraception, 2019 [4, 3, 2]",53,43,77
+"Among women aged 15–19 who want to avoid pregnancy, % with an unmet need for modern contraception, 2019 [4, 3, 2]",47,57,23
+"Among women aged 15–19 whose newborns need care for complications, % whose newborns do not receive care, 2019",40,42,12
+"Among women aged 15–49 formerly in union who want to avoid pregnancy, % not using any method of contraception, 2019 [2]",17,25,18
+"Among women aged 15–49 formerly in union who want to avoid pregnancy, % using LARC methods, 2019 [6, 2]",37,19,7
+"Among women aged 15–49 formerly in union who want to avoid pregnancy, % using a modern method, 2019 [4, 2]",82,71,82
+"Among women aged 15–49 formerly in union who want to avoid pregnancy, % using a traditional method of contraception, 2019 [5, 2]",1,4,0
+"Among women aged 15–49 formerly in union who want to avoid pregnancy, % using condoms, 2019 [2]",4,13,24
+"Among women aged 15–49 formerly in union who want to avoid pregnancy, % using contraceptive pills, patches or rings, 2019 [2]",4,9,6
+"Among women aged 15–49 formerly in union who want to avoid pregnancy, % using injectables, 2019 [2]",31,22,33
+"Among women aged 15–49 formerly in union who want to avoid pregnancy, % using male or female sterilization, 2019 [2]",5,8,11
+"Among women aged 15–49 formerly in union who want to avoid pregnancy, % using other modern methods of contraception, 2019 [2]",1,0,2
+"Among women aged 15–49 formerly in union who want to avoid pregnancy, % with a met need for modern contraception, 2019 [4, 3, 2]",82,71,82
+"Among women aged 15–49 formerly in union who want to avoid pregnancy, % with an unmet need for modern contraception, 2019 [4, 3, 2]",18,29,18
+"Among women aged 15–49 formerly in union, % not wanting to avoid pregnancy, 2019 [1]",56,53,46
+"Among women aged 15–49 formerly in union, % who want to avoid pregnancy, 2019 [2]",44,47,54
+"Among women aged 15–49 formerly in union, no. who want to avoid pregnancy, 2019 [2]","730,000","840,000","500,000"
+"Among women aged 15–49 in the poorest wealth quintile who want to avoid pregnancy, % not using any method of contraception, 2019 [2]",32,50,20
+"Among women aged 15–49 in the poorest wealth quintile who want to avoid pregnancy, % using LARC methods, 2019 [6, 2]",27,12,5
+"Among women aged 15–49 in the poorest wealth quintile who want to avoid pregnancy, % using a modern method, 2019 [4, 2]",67,46,79
+"Among women aged 15–49 in the poorest wealth quintile who want to avoid pregnancy, % using a traditional method of contraception, 2019 [5, 2]",1,4,0
+"Among women aged 15–49 in the poorest wealth quintile who want to avoid pregnancy, % using condoms, 2019 [2]",2,3,20
+"Among women aged 15–49 in the poorest wealth quintile who want to avoid pregnancy, % using contraceptive pills, patches or rings, 2019 [2]",2,6,6
+"Among women aged 15–49 in the poorest wealth quintile who want to avoid pregnancy, % using injectables, 2019 [6, 2]",34,19,44
+"Among women aged 15–49 in the poorest wealth quintile who want to avoid pregnancy, % using male or female sterilization, 2019 [2]",1,5,4
+"Among women aged 15–49 in the poorest wealth quintile who want to avoid pregnancy, % using other modern methods of contraception, 2019 [2]",1,1,0
+"Among women aged 15–49 in the poorest wealth quintile who want to avoid pregnancy, % with a met need for modern contraception, 2019 [4, 3, 2]",67,46,79
+"Among women aged 15–49 in the poorest wealth quintile who want to avoid pregnancy, % with an unmet need for modern contraception, 2019 [4, 3, 2]",33,54,21
+"Among women aged 15–49 in the poorest wealth quintile, % not wanting to avoid pregnancy, 2019 [1]",47,54,40
+"Among women aged 15–49 in the poorest wealth quintile, % who want to avoid pregnancy, 2019 [2]",53,46,60
+"Among women aged 15–49 in the poorest wealth quintile, no. who want to avoid pregnancy, 2019 [2]","1,100,000","1,100,000","1,900,000"
+"Among women aged 15–49 in the richest wealth quintile who want to avoid pregnancy, % using contraceptive pills, patches or rings, 2019 [2]",10,10,16
+"Among women aged 15–49 in the richest wealth quintile who want to avoid pregnancy, % not using any method of contraception, 2019 [2]",16,20,19
+"Among women aged 15–49 in the richest wealth quintile who want to avoid pregnancy, % using LARC methods, 2019",29,11,7
+"Among women aged 15–49 in the richest wealth quintile who want to avoid pregnancy, % using a modern method, 2019 [4, 2]",82,61,80
+"Among women aged 15–49 in the richest wealth quintile who want to avoid pregnancy, % using a traditional method of contraception, 2019 [5, 2]",2,19,0
+"Among women aged 15–49 in the richest wealth quintile who want to avoid pregnancy, % using condoms, 2019 [2]",6,17,16
+"Among women aged 15–49 in the richest wealth quintile who want to avoid pregnancy, % using injectables, 2019 [2]",27,17,22
+"Among women aged 15–49 in the richest wealth quintile who want to avoid pregnancy, % using male or female sterilization, 2019 [2]",3,5,18
+"Among women aged 15–49 in the richest wealth quintile who want to avoid pregnancy, % using other modern methods of contraception, 2019 [2]",6,1,1
+"Among women aged 15–49 in the richest wealth quintile who want to avoid pregnancy, % with a met need for modern contraception, 2019 [4, 3, 2]",82,61,80
+"Among women aged 15–49 in the richest wealth quintile who want to avoid pregnancy, % with an unmet need for modern contraception, 2019 [4, 3, 2]",18,39,20
+"Among women aged 15–49 in the richest wealth quintile, % not wanting to avoid pregnancy, 2019 [1]",44,50,43
+"Among women aged 15–49 in the richest wealth quintile, % who want to avoid pregnancy, 2019 [2]",56,50,57
+"Among women aged 15–49 in the richest wealth quintile, no. who want to avoid pregnancy, 2019 [2]","2,000,000","1,900,000","1,700,000"
+"Among women aged 15–49 in union who want to avoid pregnancy, % not using any method of contraception, 2019 [2]",19,33,20
+"Among women aged 15–49 in union who want to avoid pregnancy, % using LARC methods, 2019 [6, 2]",30,14,7
+"Among women aged 15–49 in union who want to avoid pregnancy, % using a modern method, 2019 [4, 2]",79,58,79
+"Among women aged 15–49 in union who want to avoid pregnancy, % using a traditional method of contraception, 2019 [5, 2]",2,9,0
+"Among women aged 15–49 in union who want to avoid pregnancy, % using condoms, 2019 [2]",2,4,13
+"Among women aged 15–49 in union who want to avoid pregnancy, % using contraceptive pills, patches or rings, 2019 [2]",6,10,12
+"Among women aged 15–49 in union who want to avoid pregnancy, % using injectables, 2019 [2]",36,23,35
+"Among women aged 15–49 in union who want to avoid pregnancy, % using male or female sterilization, 2019 [2]",4,6,12
+"Among women aged 15–49 in union who want to avoid pregnancy, % using other modern methods of contraception, 2019 [2]",1,1,0
+"Among women aged 15–49 in union who want to avoid pregnancy, % with a met need for modern contraception, 2019 [4, 3, 2]",79,58,79
+"Among women aged 15–49 in union who want to avoid pregnancy, % with an unmet need for modern contraception, 2019 [4, 3, 2]",21,42,21
+"Among women aged 15–49 in union, % not wanting to avoid pregnancy, 2019 [1]",22,37,29
+"Among women aged 15–49 in union, % who want to avoid pregnancy, 2019 [2]",78,63,71
+"Among women aged 15–49 in union, no. who want to avoid pregnancy, 2019 [2]","6,000,000","5,200,000","4,100,000"
+"Among women aged 15–49 never in union who want to avoid pregnancy, % not using any method of contraception, 2019 [2]",34,31,17
+"Among women aged 15–49 never in union who want to avoid pregnancy, % using LARC methods, 2019 [6, 2]",13,8,7
+"Among women aged 15–49 never in union who want to avoid pregnancy, % using a modern method, 2019 [4, 2]",64,55,82
+"Among women aged 15–49 never in union who want to avoid pregnancy, % using a traditional method of contraception, 2019 [5, 2]",3,15,0
+"Among women aged 15–49 never in union who want to avoid pregnancy, % using condoms, 2019 [2]",14,28,25
+"Among women aged 15–49 never in union who want to avoid pregnancy, % using contraceptive pills, patches or rings, 2019 [2]",4,4,6
+"Among women aged 15–49 never in union who want to avoid pregnancy, % using injectables, 2019 [2]",19,15,41
+"Among women aged 15–49 never in union who want to avoid pregnancy, % using male or female sterilization, 2019 [2]",1,0,3
+"Among women aged 15–49 never in union who want to avoid pregnancy, % using other modern methods of contraception, 2019 [2]",13,1,1
+"Among women aged 15–49 never in union who want to avoid pregnancy, % with a met need for modern contraception, 2019 [4, 3, 2]",64,55,82
+"Among women aged 15–49 never in union who want to avoid pregnancy, % with an unmet need for modern contraception, 2019 [4, 3, 2]",36,45,18
+"Among women aged 15–49 never in union, % not wanting to avoid pregnancy, 2019 [1]",72,75,45
+"Among women aged 15–49 never in union, % who want to avoid pregnancy, 2019 [2]",28,25,55
+"Among women aged 15–49 never in union, no. who want to avoid pregnancy, 2019 [2]","1,200,000","900,000","5,100,000"
+"Among women aged 15–49 who need care following a major obstetric complication, % not receiving care, 2019",60,61,5
+"Among women aged 15–49 who want to avoid pregnancy, % not using any method of contraception, 2019 [2]",21,32,19
+"Among women aged 15–49 who want to avoid pregnancy, % using LARC methods, 2019 [6, 2]",28,14,7
+"Among women aged 15–49 who want to avoid pregnancy, % using a modern method, 2019 [4, 2]",77,59,81
+"Among women aged 15–49 who want to avoid pregnancy, % using a traditional method of contraception, 2019 [5, 2]",2,9,0
+"Among women aged 15–49 who want to avoid pregnancy, % using condoms, 2019 [2]",4,8,20
+"Among women aged 15–49 who want to avoid pregnancy, % using contraceptive pills, patches or rings, 2019 [2]",6,9,8
+"Among women aged 15–49 who want to avoid pregnancy, % using injectables, 2019 [2]",33,22,38
+"Among women aged 15–49 who want to avoid pregnancy, % using male or female sterilization, 2019 [2]",3,5,7
+"Among women aged 15–49 who want to avoid pregnancy, % using other modern methods of contraception, 2019 [2]",3,1,1
+"Among women aged 15–49 who want to avoid pregnancy, % with a met need for modern contraception, 2019 [4, 3, 2]",77,59,81
+"Among women aged 15–49 who want to avoid pregnancy, % with an unmet need for modern contraception, 2019 [4, 3, 2]",23,41,19
+"Among women aged 15–49 whose newborns need care for complications, % whose newborns do not receive care, 2019",42,47,14
+"Annual no. of women aged 15–19 with a live birth , 2019","210,000","360,000","160,000"
+"Annual no. of women aged 15–49 with a live birth, 2019","1,500,000","2,100,000","1,200,000"
+"Average annual % of all pregnancies ending in abortion, 2015-2019",23,16,24
+"Average annual % of unintended pregnancies ending in abortion, 2015-2019",38,36,37
+"Average annual no. of abortions among women aged 15–49, 2015-2019","550,000","480,000","460,000"
+"Average annual no. of abortions per 1,000 women aged 15–49, 2015-2019",43,38,30
+"Average annual no. of intended pregnancies per 1,000 women aged 15–49, 2015-2019",72,123,44
+"Average annual no. of planned births per 1,000 women aged 15–49, 2015-2019",60,103,37
+"Average annual no. of pregnancies among women aged 15–49, 2015-2019","2,400,000","2,900,000","2,000,000"
+"Average annual no. of pregnancies per 1,000 women aged 15–49, 2015-2019",185,228,126
+"Average annual no. of unintended pregnancies among women aged 15–49, 2015-2019","1,500,000","1,300,000","1,300,000"
+"Average annual no. of unintended pregnancies per 1,000 women aged 15–49, 2015-2019",113,105,81
+"Average annual no. of unplanned births per 1,000 women aged 15–49, 2015-2019",55,53,41
+"No. of rural women aged 15–49 who want to avoid pregnancy, 2019 [2]","4,700,000","4,300,000","3,100,000"
+"No. of urban women aged 15–49 who want to avoid pregnancy, 2019 [2]","3,200,000","2,600,000","6,600,000"
+"No. of women aged 15–19 giving birth who do not deliver in a health facility, 2019","71,000","100,000","3,700"
+"No. of women aged 15–19 giving birth who have <4 antenatal visits, 2019 [7]","110,000","190,000","38,000"
+"No. of women aged 15–19 not receiving the care they need following a major obstetric complication, 2019","37,000","58,000","1,400"
+"No. of women aged 15–19 who want to avoid pregnancy, 2019 [2]","650,000","670,000","790,000"
+"No. of women aged 15–19 whose newborns do not receive needed care for complications, 2019","26,000","51,000","6,200"
+"No. of women aged 15–49 giving birth who do not deliver in a health facility, 2019","510,000","740,000","45,000"
+"No. of women aged 15–49 giving birth who have <4 antenatal visits, 2019 [7]","660,000","1,100,000","260,000"
+"No. of women aged 15–49 not receiving the care they need following a major obstetric complication, 2019","260,000","370,000","15,000"
+"No. of women aged 15–49 who want to avoid pregnancy, 2019 [2]","7,900,000","7,000,000","9,700,000"
+"No. of women aged 15–49 whose newborns do not receive needed care for complications, 2019","180,000","340,000","50,000"
