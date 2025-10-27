@@ -1,0 +1,9 @@
+"Source : The National Treasury and Economic Planning, 2023",,,,,,,,,,,,,
+,,,,,,,,,,,,,
+This dataset contains information on the Kenya Debt service Amount (Ksh million) from 2014 to 2023.,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Country Name,Country Code,Indicator name,,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023*
+Kenya,KE,Total Debt Service,,"160,600","253,271","251,440","308,488","460,135","850,071","651,473","780,628","917,778","1,201,033"
+,,External debt service (interest+principal),,"41,400","113,544","78,583","95623/94,180","220638/219,220","368,478","223,440","234,590","305,666","403,962"
+,,Domestic interest,,"119,200","139,727","172,857","212,865","239,497","272,351","315,453","388,830","456,849","533,098"
+,,Total domestic debt service,,,"278,618","349,010","367,587","377,870","481,593","428,033","546,038","612,112","797,071"
