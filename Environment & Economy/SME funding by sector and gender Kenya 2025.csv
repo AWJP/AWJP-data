@@ -1,0 +1,8 @@
+Source:,"Advanced Research Journal, 2025",,,,,
+,,,,,,
+This dataset contains information on the gender differences in SME funding by sector in Kenya as of 2025.,,,,,,
+,,,,,,
+Sector,Female Approval Rate (%),Male Approval Rate (%),Avg. Interest Rate (Female APR),Avg. Interest Rate (Male APR),Avg. Loan Amount Ratio (Female),Avg. Loan Amount Ratio (Male)
+Agriculture,41,60,21%,18%,0.62,0.83
+Technology,20,60,28%,21%,0.48,0.88
+Manufacturing,47,61,23%,20%,0.68,0.82
