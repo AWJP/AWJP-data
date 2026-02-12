@@ -8,6 +8,7 @@ Welcome to the Environment & Economy section of the Africa Women Journalism Proj
 2. **Economy:** Information on economic indicators, growth rates, and economic policies.
 3. **Poverty:** Statistics on poverty rates, poverty alleviation programs, and related metrics.
 4. **Agriculture & Land:** Data on agricultural practices, land use, and food security.
+5. **Technology:** Data on ICT like mobile and internet penetration, usage and trends as well as other technological statistics.
 
 
 ## Using the Data
