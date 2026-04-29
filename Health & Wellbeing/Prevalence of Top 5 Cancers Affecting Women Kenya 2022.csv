@@ -1,0 +1,11 @@
+Source: ,"World Health Organization, 2022",
+Link:,https://gco.iarc.who.int/media/globocan/factsheets/populations/404-kenya-fact-sheet.pdf,
+,,
+"This dataset contains information on the number of new cases of the top 5 type of cancers that affect women in Kenya, 2022.",,
+,,
+Cancer Type,Number of new cases,Percent
+Breast Cancer,"7,243",25.50%
+Cervical Cancer,"5,845",20.60%
+Oesophageal Cancer,"1,724",6.10%
+Colorectal Cancer,"1,599",5.60%
+Ovarian Cancer,"1,245",4.40%
