@@ -15,14 +15,15 @@ This repository is organized into several main topics, each containing relevant 
   - [Gender, Journalism, and Power: Role of Women in Francophone African Newsrooms Research Report](https://theawjp.org/gender-journalism-and-power-role-of-women-in-francophone-african-newsrooms/)
 - **Health & Well-being**
   - Covid-19
+  - HIV
   - Mental Health
+  - Maternal Health
   - Child Health
   - Vaccines
   - Sexual & Reproductive Health
 - **Education & Employment**
   - Education
-  - Work
-  - Employment & Wages
+  - Work, Employment & Wages
 - **Governance & Policy**
   - Governance & Policy
   - Elections
@@ -47,11 +48,14 @@ This repository is organized into several main topics, each containing relevant 
   - Environment & Climate Change
   - Economy
   - Blue Economy
+  - Entrepreneurship
   - Water, Sanitation and Hygiene (WASH)
   - Poverty
   - Agriculture & Land
   - Food & Nutrition
-  - Development 
+  - Development
+  - Technology
+  - Artificial Intelligence
 
   
 Each topic folder contains the datasets, README files with detailed descriptions, and any relevant scripts or tools for data analysis.
