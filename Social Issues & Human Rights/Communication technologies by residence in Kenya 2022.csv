@@ -1,0 +1,11 @@
+Source:,"Kenya Demographic and Health Surveys, 2022",,
+Link:,https://www.knbs.or.ke/reports/kdhs-2022/,,
+,,,
+"This dataset contains information on the percentage of households with various communication technologies by residence in Kenya 2022.
+",,,
+,,,
+Technology,Kenya (%),Urban (%),Rural (%)
+Radio,66,71,62
+Television,50,68,38
+Mobile phone,94,97,91
+Computer,11,21,4
