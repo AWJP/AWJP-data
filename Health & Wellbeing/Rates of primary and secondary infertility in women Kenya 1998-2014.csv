@@ -1,0 +1,10 @@
+Source: ,"Demographic and Health Survey, 2021",
+,https://www.dhsprogram.com/pubs/pdf/CR50/CR50.pdf,
+,,
+This dataset contains information on the primary and secondary infertility rates in women in Kenya from 1998-2014.,,
+,,
+Year,Primary Infertility (%),Secondary Infertility (%)
+1998,0.9,15.6
+2003,0.7,10.6
+2008,0.6,8
+2014,0.3,5.5
